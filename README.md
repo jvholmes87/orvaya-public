@@ -14,6 +14,6 @@ Our goal is to show the real creative and engineering work behind each productio
 Tools mentioned as candidates are not necessarily in use. Published evidence is reviewed for confidentiality, provenance, and licensing.
 
 ## Status
-Preproduction and documentation setup. No film release or website deployment is claimed.
+The [Orvaya Studio website](https://orvayastudio.com/) is published. This repository holds the website source and cleared public development records.
 
-Website domain reserved: **orvayastudio.com**. DNS and GitHub Pages deployment are pending.
+Films remain in concept development and preproduction. No completed film or film release is claimed. Website publication does not establish film-production completion.
